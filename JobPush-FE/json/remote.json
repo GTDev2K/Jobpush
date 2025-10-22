@@ -1,0 +1,6 @@
+[
+  { "label": "Sur site", "value": "Sur site" },
+  { "label": "Remote", "value": "Remote" },
+  { "label": "Hybride", "value": "Hybride" },
+  { "label": "Sans importance", "value": "Sans importance" }
+]

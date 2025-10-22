@@ -1,0 +1,20 @@
+[
+  { "label": "Île-de-France", "value": "Île-de-France", "code": "11" },
+  { "label": "Auvergne-Rhône-Alpes", "value": "Auvergne-Rhône-Alpes", "code": "84" },
+  { "label": "Nouvelle-Aquitaine", "value": "Nouvelle-Aquitaine", "code": "75" },
+  { "label": "Occitanie", "value": "Occitanie", "code": "76" },
+  { "label": "Provence-Alpes-Côte d'Azur", "value": "Provence-Alpes-Côte d'Azur", "code": "93" },
+  { "label": "Hauts-de-France", "value": "Hauts-de-France", "code": "32" },
+  { "label": "Grand Est", "value": "Grand Est", "code": "44" },
+  { "label": "Bretagne", "value": "Bretagne", "code": "53" },
+  { "label": "Normandie", "value": "Normandie", "code": "28" },
+  { "label": "Bourgogne-Franche-Comté", "value": "Bourgogne-Franche-Comté", "code": "27" },
+  { "label": "Centre-Val de Loire", "value": "Centre-Val de Loire", "code": "24" },
+  { "label": "Pays de la Loire", "value": "Pays de la Loire", "code": "52" },
+  { "label": "Corse", "value": "Corse", "code": "94" },
+  { "label": "Guadeloupe", "value": "Guadeloupe", "code": "01" },
+  { "label": "Martinique", "value": "Martinique", "code": "02" },
+  { "label": "Guyane", "value": "Guyane", "code": "03" },
+  { "label": "La Réunion", "value": "La Réunion", "code": "04" },
+  { "label": "Mayotte", "value": "Mayotte", "code": "06" }
+]

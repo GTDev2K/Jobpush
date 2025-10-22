@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "JobPush",
+    "slug": "JobPush",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoJobPush-Photoroom.jpg",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logoJobPush-Photoroom.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#2B3033"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoJobPush-Photoroom.jpg",
+        "backgroundColor": "#2B3033"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-web-browser"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "521ad8ed-153e-4e04-af70-3afb2a07d28d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/521ad8ed-153e-4e04-af70-3afb2a07d28d"
+    }
+  }
+}
